@@ -1,0 +1,13 @@
+
+---
+
+## ✅ 2. `requirements.txt`
+
+Create a file named `requirements.txt` and paste this:
+
+```txt
+streamlit
+pandas
+matplotlib
+seaborn
+scikit-learn
