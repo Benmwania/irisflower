@@ -1,11 +1,10 @@
 
----
 
 ## ✅ 2. `requirements.txt`
 
 Create a file named `requirements.txt` and paste this:
 
-```txt
+txt
 streamlit
 pandas
 matplotlib
